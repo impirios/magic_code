@@ -1,4 +1,4 @@
-# magic-code.c
+# magic-code
 a code generator
 		Magic ALgorithm
 What will the algorithm do -
